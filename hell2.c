@@ -1,1 +1,2 @@
-print("hello world2")
+p
+int("hello world2")
